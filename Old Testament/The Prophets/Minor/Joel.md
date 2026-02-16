@@ -35,9 +35,9 @@ Chapter::1-3
 ## Literary Themes
 ## Messages
 - We need to get right with God.
-- Uses similar language to [[Paul]] in [[Revelation]].
+- Uses similar language to [[people/Paul]] in [[New Testament/Revelation]].
 - The remedy for (Chapter 2:12-14) is: to get humble, be remorseful.  
-- Whoever calls on the name of the Lord shall be saved. [[Paul]] says this in the [[New Testament]]
+- Whoever calls on the name of the Lord shall be saved. Paul says this in the [[New Testament]]
 - God is not measuring you against other people and does not grade on the curve.  God looks at us and sees the same sinful nature.  God is the perfect example - the standard.
 # Questions
 # Backlinks
