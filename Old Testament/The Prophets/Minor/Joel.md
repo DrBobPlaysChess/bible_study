@@ -8,14 +8,13 @@ Chapter::1-3
 - Nothing is known about Joel.  We know is lineage but no more.
 - His name is really Yoel.  There is no J in the Greek alphabet.
 - Yoel - Yahweh is [[God]]
-- This may be tied to [[Amos]], roughly 750 BC
+- The Book of Joel may be tied to [[Amos]], roughly 750 BC, based on similar language.  Amos appears to quote Joel.
 - Israel is divided 10 tribes in north 2 tribes in south Judah and Jerusalem
-- The audience the southern Kingdom of Judah - references to Zion, God's Holy Hill, and Jerusalem
 - Purpose: Warn people about a coming day of judgement and to encourage people about a gracious God who responds to repentance
 # Summary
 ## Chapter 1
 	- In Joel's immediate past, God sent a devastating invasion of locusts to get the people's attention for disobeying Him. (violation of fulfilling God's commands)
-	- The people knew the Locusts were from God's hand.  Look at [[Deuteronomy]] 28.  
+	- The people knew the locusts were from God's hand.  See [[Old Testament/Deuteronomy]] 28:38
 ## Chapter 2
 	- The day of Lord is coming.  Refers to the tribulation, return of Christ, Judgement.
 		- Describes the appearance of an army.  Joel is using similes to describe the future.  He says it's 'like' because he has no references to describe it exactly.
@@ -27,6 +26,7 @@ Chapter::1-3
 - [[God]] looks at us and sees the same sinful nature.  He is the perfect example - the standard.
 # Themes and Messages
 ## Theological Themes
+- God used locused to punish people for their disobediance.  See [[Old Testament/Exodus]] [[Old Testament/Amos]]
 ## Literary Themes
 Devotional Messages
 # Questions
