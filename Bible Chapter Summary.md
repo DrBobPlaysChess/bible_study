@@ -4,7 +4,7 @@ Testament:: _Will either be [[New Teatament]] or [[Old Testament]]_
 
 Book:: _link to any Book in the directory structure.  Notify me if something is missing._
 
-Chapter:: _A file could pertain to the whole book.  Many times, books will need to be seperated into chapters.  Indicate the chapter numer(s) here.  Ex. 1-3.
+Chapter:: _A file could pertain to the whole book.  Many times, books will need to be seperated into chapters.  Indicate the chapter numer(s) here.  Ex. 1-3._
 
 
 # Key Terms
