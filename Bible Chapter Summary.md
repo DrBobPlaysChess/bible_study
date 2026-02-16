@@ -1,22 +1,22 @@
 # Metadata
 
-Testament::
+Testament:: _Will either be [[New Teatament]] or [[Old Testament]]_
 
-Book::
+Book:: _link to any Book in the directory structure.  Notify me if something is missing._
 
-Chapter::
+Chapter:: _A file could pertain to the whole book.  Many times, books will need to be seperated into chapters.  Indicate the chapter numer(s) here.  Ex. 1-3.
 
 
 # Key Terms
-- [[Term]]
+- [[Term]] _Don't forget to create a page in definitions with the term.  Please include references._
 
 # Participants / Authorship
-- [[Person]]
+- [[Person]] _This is a link to the page of a person.  There needs to be something to say about this person to warrent the person's own page.  Please create the person's page.  If the page is not created, I'll either change remove the link or post the page to be created in work to be done._ 
 # Context
-Narrative/historical placement of this chapter.
+_Narrative/historical placement of this chapter._
 # Summary
-Objective overview of events or teachings.
-# Themes and Messages
+_Objective overview of events or teachings._
+# Themes and Messages _(Optional)_
 
 ## Theological Themes
 
@@ -25,10 +25,10 @@ Objective overview of events or teachings.
 ## Devotional Messages
 
 
-# Questions
+# Questions _(Optional)_
 Study questions or unresolved observations.
 
-# Backlinks
+# Backlinks _(Optional - meant for Obsidian users)_
 ```dataview
 LIST
 FROM [[]]
