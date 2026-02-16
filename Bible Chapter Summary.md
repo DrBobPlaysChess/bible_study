@@ -1,5 +1,5 @@
 # Metadata
-Formatted:: Chapter Summary
+
 Testament::
 Book::
 Chapter::
