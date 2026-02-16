@@ -1,0 +1,11 @@
+# Ignore the entire Obsidian configuration folder
+.obsidian/
+
+# ALTERNATIVE: If you want to sync your themes and snippets 
+# but ignore local workspace state, comment out the line above 
+# and uncomment the lines below:
+
+# .obsidian/workspace.json
+# .obsidian/workspace-mobile.json
+# .obsidian/graph.json
+# .obsidian/appearance.json
